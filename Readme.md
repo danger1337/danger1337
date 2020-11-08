@@ -1,6 +1,6 @@
 **WELCOME TO MY PROFILE**
 
-<img src="https://media.discordapp.net/attachments/729479996707438602/768822935737073664/image0.gif" alt="Avatar" style="border-radius: 75%;">
+<img src="https://cdn.discordapp.com/attachments/697225400505598044/773616422370148402/Krii.gif" alt="Avatar" style="border-radius: 95%;">
 
 **SOCIAL MEDIAS**
 
