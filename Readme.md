@@ -4,7 +4,7 @@
 
 **SOCIAL MEDIAS**
 
-<a href="https://discord.bio/p/bodydifferent">discord bio lol</a> 
+<a href="https://discord.bio/p/bodydifferent">discord</a> 
 ·
 <a href=https://www.reddit.com/user/glockout->reddit</a> 
 
@@ -18,6 +18,6 @@
 <code><img height="20" src="https://user-images.githubusercontent.com/71470681/96875385-27ebdd00-1445-11eb-884c-472ce5f82732.png"></code>
 
 
-# ![Sources github stats](https://github-readme-stats.vercel.app/api?username=danger1337&show_icons=true&theme=tokyonight)
+# ![Sources github stats](https://github-readme-stats.vercel.app/api?username=danger1337&show_icons=true&theme=dark)
 <a href="https://github.com/danger1337?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danger1337&layout=compact&show_icons=true&&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danger1337&theme=dark&layout=compact" />
