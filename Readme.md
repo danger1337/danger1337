@@ -1,6 +1,6 @@
 **WELCOME TO MY PROFILE**
 
-<img src="https://media.discordapp.net/attachments/754113751833247777/782713909748301914/image0.gif" alt="Avatar" style="border-radius: 95%;">
+<img src="https://media.discordapp.net/attachments/754113751833247777/782528066286649354/image1-5.gif?width=400&height=501" alt="Avatar" style="border-radius: 95%;">
 
 <a href="https://discord.bio/p/bodydifferent">discord</a> 
 ·
