@@ -1,7 +1,5 @@
-**WELCOME TO MY PROFILE**
-
 <p align="left">
-  Repos: 2<br>
+  Repositories: 2<br>
   Followers: 13<br>
 </p>
 
