@@ -1,3 +1,6 @@
+<h1 align='center'> danger1337 </h1>
+
+
 <p align="left">
   Repositories: 2<br>
   Followers: 13<br>
@@ -13,8 +16,6 @@
   <img align="left" src="https://github.com/Fweak/Fweak/blob/master/DiscordLogo.png?raw=true" height="30px" width="30px"/>
   <p   align="left">Discord</p>
 </a>
-
-<h1 align='center'> Languages Focused </h1>
 
 <code><img height="20" src="https://user-images.githubusercontent.com/71470681/96875269-0854b480-1445-11eb-90d2-5d53f201bc5c.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
