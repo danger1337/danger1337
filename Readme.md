@@ -1,9 +1,20 @@
 **WELCOME TO MY PROFILE**
 
+<p align="left">
+  Repos: 2<br>
+  Followers: 13<br>
+</p>
 
-<a href="https://discord.bio/p/bodydifferent">discord</a> 
-·
-<a href=https://www.reddit.com/user/glockout->reddit</a> 
+
+<a     align="left" href="https://twitter.com/bankthreat">
+  <img align="left" src="https://github.com/Fweak/Fweak/blob/master/TwitterLogo.png?raw=true" height="30px" width="30px"/>
+  <p   align="left">Twitter</p>
+</a>
+
+<a     align="left" href="https://discord.com/users/290405378800222208">
+  <img align="left" src="https://github.com/Fweak/Fweak/blob/master/DiscordLogo.png?raw=true" height="30px" width="30px"/>
+  <p   align="left">Discord</p>
+</a>
 
 **Coding Languages I wish to Learn:**
 
